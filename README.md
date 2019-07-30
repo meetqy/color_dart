@@ -3,7 +3,7 @@
 display color in development
 
 ## 效果图
-![](./color_dart.png);
+![](./color_dart.png)
 
 ## 使用
 
