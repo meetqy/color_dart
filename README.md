@@ -1,6 +1,6 @@
 # color_dart
 
-display color in development
+display the color you use in development tools.
 
 ## 效果图
 ![](./color_dart.png)

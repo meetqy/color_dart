@@ -22,6 +22,6 @@ class _HexColor extends Color {
 /// or
 /// hex('#ff0000')
 /// ```
-hex(String hexColor) {
+Color hex(String hexColor) {
   return _HexColor(hexColor);
 }

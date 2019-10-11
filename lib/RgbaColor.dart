@@ -8,6 +8,6 @@ class _RgbaColor extends Color {
 /// ```
 /// rgba(0, 0, 0, 1);
 /// ```
-rgba(int r, int g, int b, double a) {
+Color rgba(int r, int g, int b, double a) {
   return _RgbaColor(r,g,b,a);
 }

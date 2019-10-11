@@ -1,7 +1,7 @@
 name: color_dart
-description: display color in development
-version: 0.0.1
-author: meetqy
+description: display the color you use in development tools.
+version: 0.2.0
+author: meetqy<meetqy.com@gmail.com>
 homepage: https://github.com/meetqy/color_dart
 
 environment:
