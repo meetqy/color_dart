@@ -1,4 +1,4 @@
 library color_dart;
 
-export 'HexColor.dart';
-export 'RgbaColor.dart';
+export 'hex_color.dart';
+export 'rgba_color.dart';

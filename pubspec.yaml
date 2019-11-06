@@ -1,6 +1,6 @@
 name: color_dart
-description: display the color you use in development tools.
-version: 0.2.0
+description: color_dart, display the color of the current rendering value in vscode.
+version: 0.2.1
 author: meetqy<meetqy.com@gmail.com>
 homepage: https://github.com/meetqy/color_dart
 
